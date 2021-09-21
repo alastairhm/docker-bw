@@ -9,3 +9,12 @@ docker run --rm -it ghcr.io/alastairhm/docker-bw:latest
 ```
 
 Then you can use `bw login` to setup connection with your vault.
+
+```text
+          _    _ __  __ 
+    /\   | |  | |  \/  | Email   : alastair@montgomery.me.uk
+   /  \  | |__| | \  / | Web     : https://blog.0x32.co.uk/
+  / /\ \ |  __  | |\/| | Twitter : @alastair_hm
+ / ____ \| |  | | |  | |
+/_/    \_\_|  |_|_|  |_| (c) 2021
+```
