@@ -10,6 +10,8 @@ docker run --rm -it ghcr.io/alastairhm/docker-bw:latest
 
 Then you can use `bw login` to setup connection with your vault.
 
+The command `search.sh <query string>` will return matching accounts and passwords.
+
 ```text
           _    _ __  __ 
     /\   | |  | |  \/  | Email   : alastair@montgomery.me.uk
